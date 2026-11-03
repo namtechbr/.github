@@ -1,3 +1,5 @@
+<img src="imagens/banner.png" alt="NAM Tech: plataformas, landing pages e sistemas" width="100%">
+
 # NAM Tech
 
 Estúdio de design e código de Teresina, Piauí. Páginas únicas, feitas do zero: landing pages, plataformas com
@@ -32,8 +34,20 @@ Quatro plataformas educacionais criadas do zero, com mais de 100 instrumentos in
 | **Laboratório Euler** | Física e matemática: 54 instrumentos, 217 fórmulas e 50 aulas |
 | **[Observatório Sagan](https://sagan.namtech.com.br)** | Astronomia: 38 instrumentos em 9 áreas, aberto ao público |
 
+<p>
+  <img src="imagens/collynha-capa.jpg" alt="Collynha" width="24%">
+  <img src="imagens/valencia-capa.jpg" alt="Laboratório Valência" width="24%">
+  <img src="imagens/fisica-capa.jpg" alt="Laboratório Euler" width="24%">
+  <img src="imagens/sagan-capa.jpg" alt="Observatório Sagan" width="24%">
+</p>
+
 Demonstrações: [landing de confeitaria](https://namtech.com.br/demos/doce-ana/) e
 [sistema de clínica](https://namtech.com.br/demos/clinica/) (negócios fictícios, para mostrar o resultado).
+
+<p>
+  <img src="imagens/doce-ana-capa.jpg" alt="Demonstração de confeitaria" width="24%">
+  <img src="imagens/clinica-capa.jpg" alt="Demonstração de sistema de clínica" width="24%">
+</p>
 
 ## Código aberto
 
