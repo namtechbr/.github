@@ -35,6 +35,15 @@ Quatro plataformas educacionais criadas do zero, com mais de 100 instrumentos in
 Demonstrações: [landing de confeitaria](https://namtech.com.br/demos/doce-ana/) e
 [sistema de clínica](https://namtech.com.br/demos/clinica/) (negócios fictícios, para mostrar o resultado).
 
+## Código aberto
+
+| Repositório | O que é |
+|---|---|
+| [agentes](https://github.com/namtechbr/agentes) | Seis agentes de IA para o Claude Code: pesquisa, prompt, crítica, segurança, briefing e carreira |
+| [skills](https://github.com/namtechbr/skills) | Skills para o Claude Code: squad criativo, professor de IA agêntica e manutenção de memória |
+| [demo-doce-ana](https://github.com/namtechbr/demo-doce-ana) | Código da landing de confeitaria |
+| [demo-clinica](https://github.com/namtechbr/demo-clinica) | Código do sistema de clínica |
+
 ## Como trabalhamos
 
 Conversa, protótipo, desenvolvimento testado no celular e no computador, e publicação com domínio próprio.
